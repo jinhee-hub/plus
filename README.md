@@ -1,3 +1,3 @@
 # plus
 
-+ anythings like assignments
++ anything like assignments
